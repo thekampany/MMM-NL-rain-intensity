@@ -23,7 +23,7 @@ module.exports = NodeHelper.create({
 			url: rainintensityUrl,
 			method: 'GET',
 		}, function (error, response, body) {
-       		        //body=   "077|17:05\n034|17:10\n101|17:15\n087|17:20\n"+
+       		        body=   "077|17:05\n034|17:10\n101|17:15\n087|17:20\n"+
 				"077|17:25\n020|17:30\n000|17:35\n000|17:40\n"+
 				"077|17:45\n087|17:50\n087|17:55\n127|18:00\n"+
 				"137|18:05\n034|18:10\n170|18:15\n000|18:20\n"+

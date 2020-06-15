@@ -102,7 +102,7 @@ Module.register("MMM-NL-rain-intensity",{
                                         for (j=0;j<12;j++){
                                             rainintensitytable.innerHTML += "<span style='background-color:hsl(0, 0%," + this.rains[j] + "%);'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>";
                                         }
-					rainintensitytable.innerHTML += "  " + this.times[0];
+					rainintensitytable.innerHTML += "  " + this.times[11];
                                         Log.info(rainintensitytable.innerHTML);
 				}
 			}
