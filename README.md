@@ -2,8 +2,8 @@
 
 Magic Mirror Module for showing Rain Intensity in the next hour in the Netherlands
 
-![screenshot rain](https://github.com/thekampany/MMM-NL-rain-intensity/screenshot-MMM-NL-rain-intensity-1.png)
-![screenshot norain](https://github.com/thekampany/MMM-NL-rain-intensity/screenshot-MMM-NL-rain-intensity-2.png)
+![screenshot rain](https://github.com/thekampany/MMM-NL-rain-intensity/blob/master/screenshot-MMM-NL-rain-intensity-1.png)
+![screenshot norain](https://github.com/thekampany/MMM-NL-rain-intensity/blob/master/screenshot-MMM-NL-rain-intensity-2.png)
 
 ## Installation
 Navigate into your MagicMirror's modules folder and execute 'git clone https://github.com/thekampany/MMM-NL-rain-intensity'
